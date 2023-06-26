@@ -1,0 +1,13 @@
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe.config
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\bin\Debug\SignUpForm.exe
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\bin\Debug\SignUpForm.pdb
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\bin\Debug\Guna.UI2.dll
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.AssemblyReference.cache
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.SignUpForm.resources
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.Properties.Resources.resources
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.GenerateResource.cache
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CoreCompileInputs.cache
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.csproj.CopyComplete
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.exe
+C:\Users\mynew\source\repos\SignUpForm\SignUpForm\obj\Debug\SignUpForm.pdb
